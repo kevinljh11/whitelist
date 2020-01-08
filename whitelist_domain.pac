@@ -50,8 +50,7 @@ var RULES = [
         ".cn"
     ],
     //custom-list
-    [
-        "x3.713713.xyz",        
+    [   
         ".hostloc.com",        
         ".zoopda.com",
         ".yixun.com",
