@@ -17,7 +17,7 @@
  *                                                 *
  * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-var IP_ADDRESS = '127.0.0.1:10800';
+var IP_ADDRESS = '192.168.2.123:10804';
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * 
  *                                                 *
@@ -51,6 +51,8 @@ var RULES = [
     ],
     //custom-list
     [
+        ".713713.xyz",        
+        ".hostloc.com",        
         ".zoopda.com",
         ".yixun.com",
         ".jd.com",
