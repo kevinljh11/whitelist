@@ -51,7 +51,7 @@ var RULES = [
     ],
     //custom-list
     [
-        ".713713.xyz",        
+        "x3.713713.xyz",        
         ".hostloc.com",        
         ".zoopda.com",
         ".yixun.com",
